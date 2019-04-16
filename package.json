@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/demartin01/Bamazon-/issues"
   },
-  "homepage": "https://github.com/demartin01/Bamazon-#readme"
+  "homepage": "https://github.com/demartin01/Bamazon-#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cli-table": "^0.3.1",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.3.1",
+    "mysql": "^2.16.0"
+  }
 }
